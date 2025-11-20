@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SchoolManagementMini",
+    "\\SchoolManagementMini\\Areas",
+    "\\SchoolManagementMini\\Areas\\Identity",
+    "\\SchoolManagementMini\\Areas\\Identity\\Pages",
+    "\\SchoolManagementMini\\Areas\\Identity\\Pages\\Account",
+    "\\SchoolManagementMini\\Models",
+    "\\SchoolManagementMini\\Services",
+    "\\SchoolManagementMini\\Views",
+    "\\SchoolManagementMini\\Views\\AdminDashboard"
+  ],
+  "SelectedNode": "\\SchoolManagementMini\\Services\\EmailSender.cs",
+  "PreviewInSolutionExplorer": false
+}

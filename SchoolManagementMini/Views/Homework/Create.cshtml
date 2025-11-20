@@ -1,0 +1,78 @@
+﻿@model StudentManagementSystem.Models.Homework
+
+@{
+    ViewData["Title"] = "Create Homework";
+}
+
+<h2 class="text-center text-primary mb-4">📘 Create New Homework</h2>
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Title" class="control-label"></label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Description" class="control-label"></label>
+                <textarea asp-for="Description" class="form-control"></textarea>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="AssignedDate" class="control-label"></label>
+                <input asp-for="AssignedDate" class="form-control" type="datetime-local" />
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="DueDate" class="control-label"></label>
+                <input asp-for="DueDate" class="form-control" type="datetime-local" />
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="SubjectId" class="control-label">Subject</label>
+                <select asp-for="SubjectId" class="form-control" asp-items="ViewBag.SubjectId">
+                    <option value="">-- Select Subject --</option>
+                </select>
+                <span asp-validation-for="SubjectId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="TeacherId" class="control-label">Teacher</label>
+                <select asp-for="TeacherId" class="form-control" asp-items="ViewBag.TeacherId">
+                    <option value="">-- Select Teacher --</option>
+                </select>
+                <span asp-validation-for="TeacherId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="StudentId" class="control-label">Student</label>
+                <select asp-for="StudentId" class="form-control" asp-items="ViewBag.StudentId">
+                    <option value="">-- Select Student --</option>
+                </select>
+                <span asp-validation-for="StudentId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <div class="form-check">
+                    <input asp-for="IsSubmitted" class="form-check-input" />
+                    <label asp-for="IsSubmitted" class="form-check-label"></label>
+                </div>
+            </div>
+
+            <div class="d-flex justify-content-between">
+                <a asp-action="Index" class="btn btn-secondary">⬅ Back to List</a>
+                <button type="submit" class="btn btn-primary">💾 Create</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

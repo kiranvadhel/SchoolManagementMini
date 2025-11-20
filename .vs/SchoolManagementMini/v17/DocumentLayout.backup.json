@@ -1,0 +1,734 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\views\\admindashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\views\\admindashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StudentManagementDB/True/SqlTable/dbo.AspNetUserLogins.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StudentManagementDB/True/SqlTable/dbo.AspNetRoleClaims.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StudentManagementDB/True/SqlTable/dbo.AspNetRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\data\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\data\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\models\\schoolclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\models\\schoolclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\views\\homework\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\views\\homework\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\models\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\models\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\areas\\identity\\pages\\_layoutidentity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\areas\\identity\\pages\\_layoutidentity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\wwwroot\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\wwwroot\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\models\\attendace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\models\\attendace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\views\\grades\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\views\\grades\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\views\\grades\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\views\\grades\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\views\\grades\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\views\\grades\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\views\\studentdashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\views\\studentdashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\views\\teacherdashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\views\\teacherdashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\controllers\\studentdashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\controllers\\studentdashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\controllers\\teacherdashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\controllers\\teacherdashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\controllers\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\controllers\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\controllers\\attendancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\controllers\\attendancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\controllers\\gradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\controllers\\gradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\controllers\\homeworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\controllers\\homeworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\controllers\\schoolclassescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\controllers\\schoolclassescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\migrations\\20251110112550_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\migrations\\20251110112550_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|c:\\users\\public\\documents\\mini project\\schoolmanagementmini\\schoolmanagementmini\\schoolmanagementmini\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3097A6-4564-4515-B902-EB0322105EC3}|SchoolManagementMini\\SchoolManagementMini.csproj|solutionrelative:schoolmanagementmini\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Services\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Services\\EmailSender.cs",
+              "RelativeToolTip": "SchoolManagementMini\\Services\\EmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T14:23:28.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "SchoolManagementMini\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:23:07.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Views\\AdminDashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Views\\AdminDashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Views\\AdminDashboard\\Index.cshtml",
+              "RelativeToolTip": "SchoolManagementMini\\Views\\AdminDashboard\\Index.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvykAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T13:15:13.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "SchoolManagementMini\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAiwJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T14:30:50.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Data\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Data\\SchoolDbContext.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Data\\SchoolDbContext.cs",
+              "RelativeToolTip": "SchoolManagementMini\\Data\\SchoolDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wCoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:10:57.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "SchoolManagementMini\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:04:33.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "SchoolManagementMini\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T13:56:02.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SchoolClass.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Models\\SchoolClass.cs",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Models\\SchoolClass.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Models\\SchoolClass.cs",
+              "RelativeToolTip": "SchoolManagementMini\\Models\\SchoolClass.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:04:52.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Views\\Students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "SchoolManagementMini\\Views\\Students\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T14:09:45.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Models\\Teacher.cs",
+              "RelativeToolTip": "SchoolManagementMini\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:02:59.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Views\\Homework\\Create.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Views\\Homework\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Views\\Homework\\Create.cshtml",
+              "RelativeToolTip": "SchoolManagementMini\\Views\\Homework\\Create.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAiwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T13:41:30.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Homework.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Models\\Homework.cs",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Models\\Homework.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Models\\Homework.cs",
+              "RelativeToolTip": "SchoolManagementMini\\Models\\Homework.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:06:33.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "SchoolManagementMini\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T14:41:19.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Models\\Student.cs",
+              "RelativeToolTip": "SchoolManagementMini\\Models\\Student.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T10:59:36.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_LayoutIdentity.cshtml",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Areas\\Identity\\Pages\\_LayoutIdentity.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Areas\\Identity\\Pages\\_LayoutIdentity.cshtml",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Areas\\Identity\\Pages\\_LayoutIdentity.cshtml",
+              "RelativeToolTip": "SchoolManagementMini\\Areas\\Identity\\Pages\\_LayoutIdentity.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAuwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T13:04:50.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "login.css",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\wwwroot\\login.css",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\wwwroot\\login.css",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\wwwroot\\login.css",
+              "RelativeToolTip": "SchoolManagementMini\\wwwroot\\login.css",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAiwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-11T12:56:38.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Models\\Grade.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Models\\Grade.cs",
+              "RelativeToolTip": "SchoolManagementMini\\Models\\Grade.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA+wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:07:03.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Attendace.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Models\\Attendace.cs",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Models\\Attendace.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Models\\Attendace.cs",
+              "RelativeToolTip": "SchoolManagementMini\\Models\\Attendace.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:05:58.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Views\\Grades\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Views\\Grades\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Views\\Grades\\Delete.cshtml",
+              "RelativeToolTip": "SchoolManagementMini\\Views\\Grades\\Delete.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAewBoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T12:01:42.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Views\\Grades\\Details.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Views\\Grades\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Views\\Grades\\Details.cshtml",
+              "RelativeToolTip": "SchoolManagementMini\\Views\\Grades\\Details.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAewBkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T12:01:49.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Views\\Grades\\Index.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Views\\Grades\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Views\\Grades\\Index.cshtml",
+              "RelativeToolTip": "SchoolManagementMini\\Views\\Grades\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T12:01:51.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "SchoolManagementMini\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:54:45.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Views\\StudentDashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Views\\StudentDashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Views\\StudentDashboard\\Index.cshtml",
+              "RelativeToolTip": "SchoolManagementMini\\Views\\StudentDashboard\\Index.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T13:22:26.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Views\\TeacherDashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Views\\TeacherDashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Views\\TeacherDashboard\\Index.cshtml",
+              "RelativeToolTip": "SchoolManagementMini\\Views\\TeacherDashboard\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T13:20:36.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StudentDashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Controllers\\StudentDashboardController.cs",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Controllers\\StudentDashboardController.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Controllers\\StudentDashboardController.cs",
+              "RelativeToolTip": "SchoolManagementMini\\Controllers\\StudentDashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:21:21.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TeacherDashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Controllers\\TeacherDashboardController.cs",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Controllers\\TeacherDashboardController.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Controllers\\TeacherDashboardController.cs",
+              "RelativeToolTip": "SchoolManagementMini\\Controllers\\TeacherDashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:17:34.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AdminDashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Controllers\\AdminDashboardController.cs",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Controllers\\AdminDashboardController.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Controllers\\AdminDashboardController.cs",
+              "RelativeToolTip": "SchoolManagementMini\\Controllers\\AdminDashboardController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:13:15.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AttendancesController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Controllers\\AttendancesController.cs",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Controllers\\AttendancesController.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Controllers\\AttendancesController.cs",
+              "RelativeToolTip": "SchoolManagementMini\\Controllers\\AttendancesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:08:05.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GradesController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Controllers\\GradesController.cs",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Controllers\\GradesController.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Controllers\\GradesController.cs",
+              "RelativeToolTip": "SchoolManagementMini\\Controllers\\GradesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:07:08.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HomeworkController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Controllers\\HomeworkController.cs",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Controllers\\HomeworkController.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Controllers\\HomeworkController.cs",
+              "RelativeToolTip": "SchoolManagementMini\\Controllers\\HomeworkController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:06:12.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SchoolClassesController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Controllers\\SchoolClassesController.cs",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Controllers\\SchoolClassesController.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Controllers\\SchoolClassesController.cs",
+              "RelativeToolTip": "SchoolManagementMini\\Controllers\\SchoolClassesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:05:21.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Controllers\\TeachersController.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "SchoolManagementMini\\Controllers\\TeachersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:03:43.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SubjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Controllers\\SubjectsController.cs",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Controllers\\SubjectsController.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Controllers\\SubjectsController.cs",
+              "RelativeToolTip": "SchoolManagementMini\\Controllers\\SubjectsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:02:47.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "SchoolManagementMini\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:58:48.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SchoolManagementMini\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T12:52:30.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "SchoolManagementMini\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-10T12:27:51.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.AspNetUserLogins.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StudentManagementDB/True/SqlTable/dbo.AspNetUserLogins.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StudentManagementDB/True/SqlTable/dbo.AspNetUserLogins.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-10T11:52:49.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.AspNetRoleClaims.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StudentManagementDB/True/SqlTable/dbo.AspNetRoleClaims.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StudentManagementDB/True/SqlTable/dbo.AspNetRoleClaims.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-10T11:52:27.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.AspNetRoles.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StudentManagementDB/True/SqlTable/dbo.AspNetRoles.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StudentManagementDB/True/SqlTable/dbo.AspNetRoles.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-10T11:52:00.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\appsettings.json",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\appsettings.json",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\appsettings.json",
+              "RelativeToolTip": "SchoolManagementMini\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-10T11:13:02.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20251110112550_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Migrations\\20251110112550_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Migrations\\20251110112550_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Migrations\\20251110112550_InitialCreate.cs",
+              "RelativeToolTip": "SchoolManagementMini\\Migrations\\20251110112550_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:25:50.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Models\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Models\\Enrollment.cs",
+              "RelativeToolTip": "SchoolManagementMini\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:05:22.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Models\\Subject.cs",
+              "RelativeToolTip": "SchoolManagementMini\\Models\\Subject.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:04:15.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Models\\Course.cs",
+              "RelativeToolTip": "SchoolManagementMini\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:03:29.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SchoolManagementMini\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MINI PROJECT\\SchoolManagementMini\\SchoolManagementMini\\SchoolManagementMini\\Models\\User.cs",
+              "RelativeToolTip": "SchoolManagementMini\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:02:06.674Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
